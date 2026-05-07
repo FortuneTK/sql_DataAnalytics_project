@@ -1,11 +1,11 @@
-# 📊 Sales Data Analysis (SQL Project)
+#  Sales Data Analysis (SQL Project)
 
-## 📌 Project Overview
+##  Project Overview
 This project explores a retail sales dataset using SQL to uncover key business insights across customers, products, and revenue performance. The goal was to simulate real-world analytical tasks such as KPI reporting, customer segmentation, and product performance evaluation.
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 - Microsoft SQL Server (SSMS)
 - Relational Database 
 - Excel
@@ -32,13 +32,13 @@ This project explores a retail sales dataset using SQL to uncover key business i
 
 ---
 
-## 📅 Data Summary
-- **Time Period:** December 2010 – January 2014 
-- **Total Duration:** 37 months 
+##  Data Summary
+- Time Period: December 2010 – January 2014 
+- Total Duration: 37 months 
 
 ---
 
-## 📈 Key Business Metrics
+##  Key Business Metrics
 
 | Metric | Value |
 |------|------|
@@ -51,11 +51,11 @@ This project explores a retail sales dataset using SQL to uncover key business i
 
 ---
 
-## 👥 Customer Insights
+##  Customer Insights
 
 ### Age Distribution
-- **Oldest Customer:** 110 
-- **Youngest Customer:** 40 
+- Oldest Customer: 110 
+- Youngest Customer: 40 
 
 ### Customers by Gender
 - Male: 9,341 
@@ -73,7 +73,7 @@ This project explores a retail sales dataset using SQL to uncover key business i
 
 ---
 
-## 🛍️ Product & Category Analysis
+##  Product & Category Analysis
 
 ### Products by Category
 - Components: 127 
@@ -96,7 +96,7 @@ This project explores a retail sales dataset using SQL to uncover key business i
 
 ---
 
-## 🌍 Sales Distribution by Country
+##  Sales Distribution by Country
 
 - United States: 20,481 
 - Australia: 13,346 
@@ -108,7 +108,7 @@ This project explores a retail sales dataset using SQL to uncover key business i
 
 ---
 
-## 🏆 Top Performing Products (by Revenue)
+##  Top Performing Products (by Revenue)
 
 1. Mountain-200 Black (46) – 1,373,454 
 2. Mountain-200 Black (42) – 1,363,128 
@@ -118,7 +118,7 @@ This project explores a retail sales dataset using SQL to uncover key business i
 
 ---
 
-## 📉 Worst Performing Products (by Sales Volume)
+##  Worst Performing Products (by Sales Volume)
 
 - Racing Socks (L) – 2,430 
 - Racing Socks (M) – 2,682 
@@ -128,7 +128,7 @@ This project explores a retail sales dataset using SQL to uncover key business i
 
 ---
 
-## 👑 Top Customers by Revenue
+##  Top Customers by Revenue
 
 - Kaitlyn Henderson – 13,294 
 - Nichole Nara – 13,294 
@@ -146,10 +146,10 @@ This project explores a retail sales dataset using SQL to uncover key business i
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-- Revenue is heavily driven by **Bikes**, indicating product dependency 
-- The **United States and Australia** are the strongest markets 
+- Revenue is heavily driven by Bikes, indicating product dependency 
+- The United States and Australia are the strongest markets 
 - High-value products generate most of the revenue (premium strategy) 
 - Accessories and low-cost items underperform in comparison 
 - A small group of customers contributes significantly to revenue 
